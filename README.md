@@ -1,8 +1,8 @@
 ## REACT.js CALCULATOR
 
-Zach Carreon
-Christian Ramoso
-Ralph Alexander
+Zach Carreon,
+Christian Ramoso,
+Ralph Alexander,
 Paulo De Jesus
 
 ## Cloning and Running the Application in local
