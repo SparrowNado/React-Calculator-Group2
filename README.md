@@ -1,3 +1,10 @@
+## REACT.js CALCULATOR
+
+Zach Carreon
+Christian Ramoso
+Ralph Alexander
+Paulo De Jesus
+
 ## Cloning and Running the Application in local
 
 Clone the project into local or Download the zip file
